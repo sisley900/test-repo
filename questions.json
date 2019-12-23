@@ -2,4 +2,9 @@
 	"tags": ["rotation", "other"],
 	"question": "What is the question?",
 	"answer": "This is the answer"
+},
+{
+        "tags": ["rotation", "other"],
+        "question": "What is the second question?",
+        "answer": "This is the second answer"
 }
